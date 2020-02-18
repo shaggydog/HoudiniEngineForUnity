@@ -1,0 +1,8 @@
+{
+  "name": "com.sesi.houdiniengineforunity",
+  "version": "18.0.348",
+  "unity": "2020.1",
+  "displayName": "Houdini Engine",
+  "description": "Houdini Engine for Unity",
+  "dependencies": {}
+}
